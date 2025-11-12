@@ -1,0 +1,29 @@
+Zynfelix,Balththel,Ilmarthel,Gaerzryn,Ilmartaril,Olarurath,Balthvor,Rynthel,Zynurath,Olarurath,Cragnor,Rynurath,Zyntaril,Adalfelix,Quarnphor,Balthurath,Quirurath,Balthnor,Adalnarith,Zynurath,Olarthel,Quarnnor,Quirnarith,Adalnor,Rynnor,Zynnor,Adalphor,Cragnarith,Ilmarfelix,Zynzryn,Olarfelix,Quarnfelix,Ilmarnarith,Adalvor,Quirphor,Zynthel,Quirtaril,Quarnzryn,Gaernarith,Olartaril,Quirurath,Zynphor,Balthfelix,Rynzryn,Quirthel,Gaerthel,Cragzryn,Olarnarith,Gaerphor,Cragthel,Zynvor,Ilmarurath,Gaervor,Gaerurath,Quarnvor,Adalurath,Balthurath,Balthnarith,Balthtaril,Adalurath,Quirnor,Gaertaril,Cragfelix,Olarvor,Quarnnarith,Gaernor,Cragurath,Olarphor,Ilmarvor,Cragphor,Quirzryn,Cragvor,Quarnurath,Cragtaril,Adalzryn,Cragurath,Rynurath,Gaerurath,Gaerfelix,Ilmarzryn,Rynfelix,Rynphor,Olarnor,Quarntaril,Adalthel,Quarnthel,Quirvor,Ilmarnor,Rynnarith,Balthzryn,Rynvor,Ilmarphor,Zynnarith,Quirfelix,Olarzryn,Adaltaril,Ilmarurath,Quarnurath,Ryntaril,Balthphor
+
+B > a
+t > h,a
+e > l,r
+R > y
+p > h
+n > a,o,p,n,z,v,t,u,f
+Z > y
+r > p,n,i,z,y,v,t,u,a,f
+z > r
+d > v
+f > e
+Q > u
+A > d
+g > p,n,z,v,t,u,f
+y > n,v
+m > a
+C > r
+i > t,l,x,r
+l > t,v,i,p,n,z,u,f
+I > l
+G > a
+a > l,r,t,v,g
+u > r,v
+O > l
+o > r
+v > o
+h > v,o,e,p,n,z,t,u,f

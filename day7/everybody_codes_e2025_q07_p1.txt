@@ -1,0 +1,11 @@
+Ulrax,Harrax,Harrax,Haroris,Haroris,Harjorath,Uljorath,Uloris,Harjorath
+
+j > o
+t > h
+i > s
+o > r
+r > a,j,r,o,i
+H > a
+l > j,b
+U > l
+a > t,b,x
