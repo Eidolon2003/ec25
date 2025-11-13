@@ -99,7 +99,7 @@ int main() {
 
 			if (cuts > maxCut) {
 				maxCut = cuts;
-				printf("(%d, %d) cuts %zu\n", b, e, cuts);
+				//printf("(%d, %d) cuts %zu\n", b, e, cuts);
 			}
 		}
  	}
