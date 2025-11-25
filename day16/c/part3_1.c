@@ -65,8 +65,8 @@ size_t lcm(int *nums, size_t nnums) {
 
 int main() {
 #ifdef TESTING
-	//FILE *f = fopen("../testp3.txt", "r");
-	FILE *f = fopen("../everybody_codes_e2025_q16_p3.txt", "r");
+	FILE *f = fopen("../testp3.txt", "r");
+	//FILE *f = fopen("../everybody_codes_e2025_q16_p3.txt", "r");
 #else
 	FILE *f = fopen("../everybody_codes_e2025_q16_p3.txt", "r");
 #endif
@@ -133,9 +133,6 @@ int main() {
 
 		// If there are still blocks left to place,
 		// check again with the highest number removed
-		//
-		// We know that the highest number won't come into play because 
-		// there aren't enough columns remaining for it to place one again.
 		// 
 		// Removing it from the list makes the lcm smaller for next round
 		// nnums-- in the for loop
